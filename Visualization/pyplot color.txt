@@ -1,0 +1,10 @@
+character	color
+'b'	blue
+'g'	green
+'r'	red
+'c'	cyan
+'m'	magenta
+'y'	yellow
+'k'	black
+'w'	white
+[출처] [Python] Matplotlib.pyplot의 plot()|작성자 SanaL
